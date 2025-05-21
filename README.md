@@ -1,18 +1,22 @@
 # The Big Loyce
 ## About Me
-- I'm in my 3rd year of study at University of Strathclyde under the MEngCS Course
+- I'm off for summer, but will be returning for my 5th year of study at University of Strathclyde under the MEngCS Course
 - I'm familiar with:
   - Java
   - Python
+  - XML (Not that it really counts...)
+  - Lua
 - I have some experience with:
   - C
   - Haskell
-- I'm currently learning:
-  - (More) Haskell
+  - Agda
   - PHP
   - JavaScript
+- I'm currently learning:
+  - None
+  - (Will likely be learning C# and C++ soon)
 ### My Schedule
-I'm attending University Tuesday-Friday currently, and tend to enjoy my days off playing games or fixing JavaDocs *(mainly the former)*
+No set schedule as of right now.
 ## Where to reach me
 Ideally at *@parboleumloyce* on **Discord** *(and most other places)*
 <!--
